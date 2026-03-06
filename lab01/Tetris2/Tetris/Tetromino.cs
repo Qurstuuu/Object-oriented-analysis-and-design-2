@@ -69,19 +69,73 @@ namespace Tetris
 
     internal class IPiece: Tetromino
     {
-        private static readonly int[,] SHAPE = 
+        private static readonly int[,] SHAPE4 = 
             {
-            { 0, 0, 1, 0 },
-            { 0, 0, 1, 0 },
-            { 0, 0, 1, 0 },
-            { 0, 0, 1, 0 }
+            { 1, 0, 0, 0 },
+            { 1, 0, 0, 0 },
+            { 1, 0, 0, 0 },
+            { 1, 0, 0, 0 }
             };
-        public IPiece(int x = 0, int y = 21) : base(SHAPE, x, y) {}
-        public IPiece(int[,] shape, int x = 0, int y = 21) : base(shape, x, y) {}
-        public IPiece(IPiece other) : base(other._shape, other._x, other._y) {}
+        private static readonly int[,] SHAPE3 =
+            {
+            { 1, 0, 0 },
+            { 1, 0, 0 },
+            { 1, 0, 0 },
+            };
+        private static readonly int[,] SHAPE2 =
+            {
+            { 1, 0 },
+            { 1, 0 },
+            };
+        private static readonly int[,] SHAPE1 =
+            {
+            { 1 },
+            };
+        private int _counter;
+        public IPiece(int x = 0, int y = 21) : base(SHAPE4, x, y) {
+            _counter = 0;
+        }
+
+        public IPiece(int[,] shape, int x = 0, int y = 21) : base(SHAPE4, x, y)
+        {
+            _counter = 4 - shape.GetLength(0);
+        }
+        public IPiece(int counter, int x = 0, int y = 21) : base(GetShapeByCounter(counter), x, y) {
+            _counter = counter;
+        }
+        public IPiece(IPiece other) : base(other._shape, other._x, other._y) {
+            _counter = other._counter;
+                }
         public override Tetromino Clone()
         {
             return new IPiece(this);
+        }
+
+        private static int[,] GetShapeByCounter(int counter)
+        {
+            switch (counter)
+            {
+                case 1: return SHAPE3;
+                case 2: return SHAPE2;
+                case 3: return SHAPE1;
+                default: return SHAPE4;
+            }
+        }
+
+        public override Tetromino Move(int dx, int dy)
+        {
+            return new IPiece(_counter, _x + dx, _y + dy);
+        }
+
+        public override Tetromino Rotate()
+        {
+            int newCounter = (_counter + 1) % 4;
+            return new IPiece(newCounter, _x, _y + 1);
+        }
+
+        public override Tetromino SetCoords(int x, int y)
+        {
+            return new IPiece(_counter, x, y);
         }
     }
 

@@ -3,31 +3,27 @@
   "WorkspaceRootPath": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|c:\\programming\\github_repos\\ooap2\\lab01\\tetris2\\tetris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|solutionrelative:tetris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\tetris\\tetromino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|solutionrelative:tetris\\tetromino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris.csproj|C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\tetris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris.csproj|solutionrelative:tetris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\tetris\\ipieceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|solutionrelative:tetris\\ipieceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\tetris\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|solutionrelative:tetris\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\tetris\\opiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|solutionrelative:tetris\\opiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|c:\\programming\\github_repos\\ooap2\\lab01\\tetris2\\tetris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|solutionrelative:tetris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|c:\\programming\\github_repos\\ooap2\\lab01\\tetris2\\tetris\\ipieceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|solutionrelative:tetris\\ipieceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|c:\\programming\\github_repos\\ooap2\\lab01\\tetris2\\tetris\\tetromino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|solutionrelative:tetris\\tetromino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|c:\\programming\\github_repos\\ooap2\\lab01\\tetris2\\tetris\\opiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|solutionrelative:tetris\\opiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|c:\\programming\\github_repos\\ooap2\\lab01\\tetris2\\tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|solutionrelative:tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,11 +31,11 @@
       "RelativeMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris.csproj|solutionrelative:tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|c:\\programming\\github_repos\\ooap2\\lab01\\tetris2\\tetris\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|solutionrelative:tetris\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\tetris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|solutionrelative:tetris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|c:\\programming\\github_repos\\ooap2\\lab01\\tetris2\\tetris\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\tetris\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2334A5B6-4F66-403E-8FED-2ECDF4F133AF}|Tetris\\Tetris2.csproj|solutionrelative:tetris\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -62,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,45 +66,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Form1.cs",
-              "RelativeDocumentMoniker": "Tetris\\Form1.cs",
-              "ToolTip": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Tetris\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T15:32:42.088Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "OPiece.cs",
               "DocumentMoniker": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\OPiece.cs",
               "RelativeDocumentMoniker": "Tetris\\OPiece.cs",
               "ToolTip": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\OPiece.cs",
               "RelativeToolTip": "Tetris\\OPiece.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T15:06:47.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Program.cs",
               "RelativeDocumentMoniker": "Tetris\\Program.cs",
               "ToolTip": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Program.cs",
               "RelativeToolTip": "Tetris\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBYAAACoAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T13:51:04.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T13:51:04.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Board.cs",
               "RelativeDocumentMoniker": "Tetris\\Board.cs",
@@ -116,51 +99,50 @@
               "RelativeToolTip": "Tetris\\Board.cs",
               "ViewState": "AgIAABwAAAAAAAAAAIAwwCoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:03:50.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T12:03:50.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Game.cs",
               "RelativeDocumentMoniker": "Tetris\\Game.cs",
               "ToolTip": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Game.cs",
               "RelativeToolTip": "Tetris\\Game.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAvwDUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAA7wDAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T12:50:49.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Tetromino.cs",
               "DocumentMoniker": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Tetromino.cs",
               "RelativeDocumentMoniker": "Tetris\\Tetromino.cs",
-              "ToolTip": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Tetromino.cs",
-              "RelativeToolTip": "Tetris\\Tetromino.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAE0AAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Tetromino.cs*",
+              "RelativeToolTip": "Tetris\\Tetromino.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T12:02:06.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "IPieceProvider.cs",
               "DocumentMoniker": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\IPieceProvider.cs",
               "RelativeDocumentMoniker": "Tetris\\IPieceProvider.cs",
               "ToolTip": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\IPieceProvider.cs",
               "RelativeToolTip": "Tetris\\IPieceProvider.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA9wCMAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T11:45:52.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Game.cs",
               "RelativeDocumentMoniker": "Tetris\\Game.cs",
@@ -172,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Tetromino.cs",
               "DocumentMoniker": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Tetromino.cs",
               "RelativeDocumentMoniker": "Tetris\\Tetromino.cs",
@@ -184,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Board.cs",
               "RelativeDocumentMoniker": "Tetris\\Board.cs",
@@ -196,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Program.cs",
               "RelativeDocumentMoniker": "Tetris\\Program.cs",
@@ -208,27 +190,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Form1.cs",
               "RelativeDocumentMoniker": "Tetris\\Form1.cs",
               "ToolTip": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Form1.cs",
               "RelativeToolTip": "Tetris\\Form1.cs",
-              "ViewState": "AgIAAOMAAAAAAAAAAAArwPAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T07:42:51.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Form1.cs",
               "RelativeDocumentMoniker": "Tetris\\Form1.cs",
-              "ToolTip": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris\\Tetris\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "..\\Tetris\\Tetris\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "ToolTip": "C:\\Programming\\GitHub_Repos\\OOAP2\\lab01\\Tetris2\\Tetris\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Tetris\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T06:43:00.924Z"
+              "WhenOpened": "2026-03-06T15:41:28.61Z"
             }
           ]
         }

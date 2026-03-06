@@ -46,6 +46,7 @@ namespace Tetris
         public void StartGame()
         {
             _ = new OPiece();// принудительная инициализация
+            _ = new IPiece();
             _isGameOver = false;
             _nextPiece = _provider.Create();
             SpawnNextPiece();
