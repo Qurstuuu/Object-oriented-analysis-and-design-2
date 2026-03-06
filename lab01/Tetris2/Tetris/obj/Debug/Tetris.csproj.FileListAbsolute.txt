@@ -1,0 +1,11 @@
+C:\Programming\GitHub_Repos\OOAP2\lab01\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Programming\GitHub_Repos\OOAP2\lab01\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Programming\GitHub_Repos\OOAP2\lab01\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Programming\GitHub_Repos\OOAP2\lab01\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Programming\GitHub_Repos\OOAP2\lab01\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Programming\GitHub_Repos\OOAP2\lab01\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Programming\GitHub_Repos\OOAP2\lab01\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Programming\GitHub_Repos\OOAP2\lab01\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Programming\GitHub_Repos\OOAP2\lab01\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Programming\GitHub_Repos\OOAP2\lab01\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Programming\GitHub_Repos\OOAP2\lab01\Tetris\Tetris\obj\Debug\Tetris.exe.config
