@@ -33,7 +33,7 @@ private:
     QString buildYandexGeocodeUrl(const QString &cityName); //  яндекс геокодер
     bool parseYandexGeocode(const QByteArray &jsonData, double &lat, double &lon, QString &displayName);
 
-    QString buildWeatherUrl(double lat, double lon);
+    QString buildWeatherUrl(double lat, double lon); // open-meteo
     bool parseWeather(const QByteArray &jsonData, WeatherData &data);
     QString getWindDirection(double degrees);
 
@@ -46,7 +46,6 @@ private:
 
     QMap<QNetworkReply*, QString> m_pendingRequests;
     QMap<QNetworkReply*, QString> m_pendingWeatherRequests;
-    QString m_currentCity;
 
     QString m_yandexApiKey;
 
